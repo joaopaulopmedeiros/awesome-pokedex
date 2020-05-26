@@ -1,0 +1,2 @@
+# awesome-pokedex
+Awesome Pokedex = )
